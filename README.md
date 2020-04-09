@@ -8,7 +8,7 @@ followed by the word ``` VALUES ``` and in parentheses the data you would like t
 		VALUES
 		(1, 1, 3),
 		(11, 1, 3),  
-    (20, 5, 21)
+                (20, 5, 21)
 ;
 
 ```
