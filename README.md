@@ -32,3 +32,4 @@ can dictate which rows I would like returned in the query and as I only need the
 Finally we have the ``` HAVING ``` clause. Using the COUNT function we are saying if any card number appears 5 or more times then they meet
 the criteria and should be included in this query.
  
+
